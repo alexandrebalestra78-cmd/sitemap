@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Page d’accueil -->
   <url>
     <loc>https://www.accobraera427.fr/</loc>
     <priority>1.00</priority>
@@ -23,7 +22,7 @@
   <url><loc>https://www.accobraera427.fr/pièces-classées-par-catégories</loc><priority>0.70</priority></url>
   <url><loc>https://www.accobraera427.fr/les-pièces-premium</loc><priority>0.70</priority></url>
   <url><loc>https://www.accobraera427.fr/travaux-effectués-sur-la-cobra-era</loc><priority>0.70</priority></url>
-  <url><loc>https://www.accobraera427.fr/conseils-et-montage-des-pieces-sur-lac-cobra</loc><priority>0.70</priority></url>
+  <url><loc>https://www.accobraera427.fr/conseils-et-montage-des-pièces-sur-lac-cobra</loc><priority>0.70</priority></url>
   <url><loc>https://www.accobraera427.fr/entretien-dune-ac-cobra-era</loc><priority>0.80</priority></url>
   <url><loc>https://www.accobraera427.fr/le-carburateur-holley-4150-750-cfm</loc><priority>0.70</priority></url>
   <url><loc>https://www.accobraera427.fr/les-moyeux-6-broches</loc><priority>0.70</priority></url>
